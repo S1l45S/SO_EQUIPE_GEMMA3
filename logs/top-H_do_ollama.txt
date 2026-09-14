@@ -1,0 +1,18 @@
+top - 04:37:06 up  1:14,  1 user,  load average: 4,31, 1,94, 1,33
+Threads:  11 total,   0 em exec.,  11 dormindo,   0 parado,   0 zumbi
+%CPU(s): 99,8 us,  0,2 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st 
+MB mem :  11410,8 total,    382,9 free,   7123,2 used,   3664,6 buff/cache     
+MB swap:   3079,0 total,   3078,4 free,      0,6 used.   4287,6 avail mem 
+
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM    TEMPO+ COMANDO  
+  16200 ollama    20   0 2109864  90636  25076 S   0,0   0,8   0:00.00 ollama   
+  16203 ollama    20   0 2109864  90636  25076 S   0,0   0,8   0:00.06 ollama   
+  16204 ollama    20   0 2109864  90636  25076 S   0,0   0,8   0:00.06 ollama   
+  16205 ollama    20   0 2109864  90636  25076 S   0,0   0,8   0:00.10 ollama   
+  16206 ollama    20   0 2109864  90636  25076 S   0,0   0,8   0:00.00 ollama   
+  16207 ollama    20   0 2109864  90636  25076 S   0,0   0,8   0:00.08 ollama   
+  16208 ollama    20   0 2109864  90636  25076 S   0,0   0,8   0:00.16 ollama   
+  16209 ollama    20   0 2109864  90636  25076 S   0,0   0,8   0:00.13 ollama   
+  16210 ollama    20   0 2109864  90636  25076 S   0,0   0,8   0:00.00 ollama   
+  16211 ollama    20   0 2109864  90636  25076 S   0,0   0,8   0:00.28 ollama   
+  16212 ollama    20   0 2109864  90636  25076 S   0,0   0,8   0:00.25 ollama

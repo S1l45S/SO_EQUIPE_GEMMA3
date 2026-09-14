@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE                                COMMAND           CREATED          STATUS                    PORTS                                         NAMES
+855f8800fb63   ghcr.io/open-webui/open-webui:main   "bash start.sh"   20 minutes ago   Up 20 minutes (healthy)   0.0.0.0:3000->8080/tcp, [::]:3000->8080/tcp   open-webui
