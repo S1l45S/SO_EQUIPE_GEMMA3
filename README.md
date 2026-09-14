@@ -152,14 +152,6 @@ time curl http://localhost:11434/api/generate \
     "stream": false
   }'
 ```
-
----
-### Comando
-
-```bash
-[Inserir aqui o comando utilizado no terceiro experimento]
-```
-
 ---
 
 # Comandos de Monitoramento Utilizados
