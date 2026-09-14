@@ -154,17 +154,6 @@ time curl http://localhost:11434/api/generate \
 ```
 
 ---
-
-## Configuração 3: Ajuste de Execução Local
-
-Neste cenário será utilizada uma variação da configuração de execução para avaliar seu impacto no comportamento do sistema.
-
-> **Atenção:** inserir nesta seção a variação efetivamente utilizada no terceiro experimento, como, por exemplo, limitar a janela de contexto ou alterar o número de threads por meio de parâmetros de execução.
-
-### Variação utilizada
-
-**[Inserir aqui a configuração efetivamente utilizada pela equipe.]**
-
 ### Comando
 
 ```bash
