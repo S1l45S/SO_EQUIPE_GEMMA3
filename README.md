@@ -5,6 +5,7 @@
 - Bruno Amancio Ferreira
 - Christian Will Silva Santos Nunes
 - Iasmin Victoria Teixeira Barreto
+- Marcos Vinícius Dantas aguiar
 - Pedro César Figueiredo Carneiro
 - Sibele Oliveira Cruz
 - Silas Santos da Silva
